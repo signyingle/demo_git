@@ -7,5 +7,6 @@ public class GitText {
         System.out.println("text git 3");
         System.out.println("text git 4");
         System.out.println("push git 4");
+        System.out.println("push gitee 4");
     }
 }
